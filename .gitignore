@@ -4,7 +4,9 @@
 /tmp/
 /testData/
 nb*.xml
-.*
+.classpath
+.project
+/.settings/
 .*~
 *.iml
 .idea
